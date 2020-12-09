@@ -5,4 +5,6 @@ Machine learning on SNPs to predict clade using multinomial logistic regression 
 ![Confusion Matrix](https://github.com/tyden46/ComputationalBiologyProject2020/blob/main/ConfusionForGithub.jpg)<br/><br/>
 as well as<br/><br/>
 Point mutation effect prediction on protein structure (Hui's Individual Project) <br/><br/>
-![Protein Structure](https://github.com/tyden46/ComputationalBiologyProject2020/blob/main/ProteinForGithub.png)
+![Protein Structure](https://github.com/tyden46/ComputationalBiologyProject2020/blob/main/ProteinForGithub.png) <br/><br/>
+
+Note that GISAID metadata and msa files cannot be shared on GitHub per the user agreement of GISAID
